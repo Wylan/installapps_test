@@ -1,0 +1,13 @@
+{
+  "preflight": [],
+  "setupassistant": [],
+  "userland": [
+    {
+      "file": "/Library/installapplications/userscripts/test_hello_world.py",
+      "hash": "1ce299098371063f8154488331d63dd2882a5a51c0958a88e768b341bc21581a",
+      "name": "Hello World Test Script",
+      "type": "userscript",
+      "url": "https://raw.githubusercontent.com/Wylan/installapps_test/refs/heads/main/test_hello_world.py"
+    }
+  ]
+}
